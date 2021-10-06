@@ -1,5 +1,5 @@
-<?php 
-    include "./inc/header.php";
+<?php
+include "./inc/header.php";
 ?>
 
 
@@ -1010,6 +1010,6 @@
     </section> -->
 
 
-<?php 
-    include "./inc/footer.php";
+<?php
+include "./inc/footer.php";
 ?>

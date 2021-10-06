@@ -1,3 +1,6 @@
+<?php
+    include "./helper/download.php"
+?>
 <!doctype html>
 <html lang="zxx">
 
@@ -28,7 +31,7 @@
 
     <link rel="stylesheet" href="assets/css/responsive.css">
     <title>Hope Autism Specialized School</title>
-    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="icon" type="image/png" href="assets/img/hope.png">
 </head>
 
 <body>
@@ -78,12 +81,12 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="about.php#mission-vission" class="nav-link">
                                             Mission & Vision
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="executive.php" class="nav-link">
                                             Executive Committee
                                         </a>
                                     </li>
@@ -102,32 +105,32 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="service.php#Early-Intervention-Section" class="nav-link">
                                             Early Intervention
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="service.php#Senior-section" class="nav-link">
                                             Junior Section
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            Online Session
+                                        <a href="service.php#Academic/pre-academic-program" class="nav-link">
+                                            Academic/pre-academic program
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="service.php#Vocational-Training" class="nav-link">
                                             Vocational Training
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="service.php#Parents-Training" class="nav-link">
                                             Parents Training
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="service.php#Counselling" class="nav-link">
                                             Counselling
                                         </a>
                                     </li>
@@ -166,12 +169,13 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href='../assets/file/admission_form.docx'  class='nav-link' download="admission_form.docx">
+
                                             Addmission Form
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="../assets/file/gm_form.docx" class="nav-link" download="gm_form.docx">
                                             Membership Form
                                         </a>
                                     </li>
