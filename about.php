@@ -26,7 +26,7 @@ include "./inc/header.php";
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="who-we-are-content">
+                    <div class="who-we-are-content" id="about-us">
                         <span>About Us</span>
                         <h3>Learn About Hope Autism Specialized School</h3>
                         <p>

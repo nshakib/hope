@@ -13,16 +13,15 @@ include "./inc/header.php";
                                 <div class="main-banner-content">
                                     <span>Play, Learn and Grow</span>
                                     <h1>We are a Childcare Professional</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                    <p> HOPE AUTISM WELFARE SOCIETY has been working with the children with special needs since 2008. Here at our organization,
+                                        therapists are given special training keeping in mind the individual needs of every child’s specialty.</p>
                                     <div class="banner-btn">
-                                        <a href="#" class="default-btn">
+                                        <a href="about.php#about-us" class="default-btn">
                                             Learn More
                                         </a>
-                                        <a href="#" class="optional-btn">
-                                            Find Out More
-                                        </a>
+<!--                                        <a href="#" class="optional-btn">-->
+<!--                                            Find Out More-->
+<!--                                        </a>-->
                                     </div>
                                 </div>
                             </div>

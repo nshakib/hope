@@ -11,7 +11,7 @@ include "./inc/header.php";
                         <h2>Teacher</h2>
                         <ul>
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="index.php">Home</a>
                             </li>
                             <li>Teacher</li>
                         </ul>
@@ -25,6 +25,7 @@ include "./inc/header.php";
     <section class="teacher-area pt-100 pb-70">
         <div class="container-fluid">
             <div class="row">
+                <!--Aditi Molly Datta-->
                 <div class="col-lg-3 col-md-6">
                     <div class="single-teacher">
                         <div class="image">
@@ -53,11 +54,12 @@ include "./inc/header.php";
                             </ul>
                         </div>
                         <div class="content">
-                            <h3>Glims Bond</h3>
-                            <span>Occupational Therapist</span>
+                            <h3>Aditi Molly Datta</h3>
+                            <span>Special Educator Consultant</span>
                         </div>
                     </div>
                 </div>
+                <!--Karen Purdie-->
                 <div class="col-lg-3 col-md-6">
                     <div class="single-teacher">
                         <div class="image">
@@ -86,15 +88,16 @@ include "./inc/header.php";
                             </ul>
                         </div>
                         <div class="content">
-                            <h3>Sherlock Bin</h3>
-                            <span>Neurologist , Phycologist</span>
+                            <h3>Karen Purdie</h3>
+                            <span>Occupational Therapist  </span>
                         </div>
                     </div>
                 </div>
-                <!--<div class="col-lg-3 col-md-6">
+                <!--Dr. Elfriede Ihsen-->
+                <div class="col-lg-3 col-md-6">
                     <div class="single-teacher">
                         <div class="image">
-                            <img src="assets/img/teacher/teacher-3.jpg" alt="image">
+                            <img src="assets/img/teacher/Elfriede.jpg" alt="image">
                             <ul class="social">
                                 <li>
                                     <a href="#" target="_blank">
@@ -119,12 +122,13 @@ include "./inc/header.php";
                             </ul>
                         </div>
                         <div class="content">
-                            <h3>Priestly Herbart</h3>
-                            <span>Math Teacher</span>
+                            <h3>Dr. Elfriede Ihsen</h3>
+                            <span>Neurologist</span>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+
+                <!--<div class="col-lg-3 col-md-6">
                     <div class="single-teacher">
                         <div class="image">
                             <img src="assets/img/teacher/teacher-4.jpg" alt="image">
