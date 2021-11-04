@@ -11,10 +11,12 @@ include "./inc/header.php";
                         <div class="row align-items-center">
                             <div class="col-lg-6">
                                 <div class="main-banner-content">
-                                    <span>Play, Learn and Grow</span>
+                                    <!-- <span>Play, Learn and Grow</span> -->
                                     <h1>We are a Childcare Professional</h1>
-                                    <p> HOPE AUTISM WELFARE SOCIETY has been working with the children with special needs since 2008. Here at our organization,
-                                        therapists are given special training keeping in mind the individual needs of every child’s specialty.</p>
+                                    <p> হোপ অটিজম ওয়েলফেয়ার সোসাইটি দ্বারা পরিচালিত হোপ অটিজম স্পেশালাইজড স্কুলটি বিশেষ চাহিদা সম্পন্ন শিশুদের সেবায় নিয়োজিত। 
+২০০৮ থেকে হোপ অটিজম সোসাইটি এর কার্যক্রম শুরু করে। প্রতিটি শিশুর দক্ষতা ও চাহিদাকে বিবেচনায় রেখে শিক্ষকদের প্রশিক্ষণ দেয়া হয়। 
+প্রত্যেকটি শিশুর লক্ষ্যকে সামনে রেখে আমাদের কারিকুলাম ঠিক করা হয়। আন্তর্জাতিক মানের প্রশিক্ষকগণ বিভিন্ন দেশ হতে আমাদের শিক্ষকদের প্রশিক্ষণ প্রদান করেন। 
+</p>
                                     <div class="banner-btn">
                                         <a href="about.php#about-us" class="default-btn">
                                             Learn More
@@ -27,9 +29,9 @@ include "./inc/header.php";
                             </div>
                             <div class="col-lg-6">
                                 <div class="main-banner-image-wrap">
-                                    <img src="assets/img/main-banner/main-banner-1.png" alt="image">
+                                    <img src="assets/img/main-banner/main-banner-5.png" alt="image">
                                     <div class="banner-image-wrap-shape">
-                                        <img src="assets/img/main-banner/main-banner-shape-1.png" alt="image">
+                                        <img src="assets/img/main-banner/main-banner-shape-2.png" alt="image">
                                     </div>
                                 </div>
                             </div>
@@ -60,7 +62,7 @@ include "./inc/header.php";
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="who-we-are-content">
-                        <span>Who We Are</span>
+                        <!-- <span>Who We Are</span> -->
                         <h3>Learn About Our Work and Cultural Activities</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                             labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
@@ -70,19 +72,19 @@ include "./inc/header.php";
                         <ul class="who-we-are-list">
                             <li>
                                 <span>1</span>
-                                Homelike Environment
+                                সেবার স্বচ্ছতা 
                             </li>
                             <li>
                                 <span>2</span>
-                                Quality Educators
+                                ব্যক্তি ও পরিবারের ক্ষমতায়ন
                             </li>
                             <li>
                                 <span>3</span>
-                                Safety and Security
+                                সমাজে ব্যক্তির অধিকার সুপ্রতিষ্ঠা 
                             </li>
                             <li>
                                 <span>4</span>
-                                Play to Learn
+                                আন্তর্জাতিক মানের সেবা প্রদান
                             </li>
                         </ul>
                         <div class="who-we-are-btn">
@@ -100,7 +102,7 @@ include "./inc/header.php";
     </section>
 
 
-    <section class="activities-area pt-100 pb-70">
+    <!-- <section class="activities-area pt-100 pb-70">
         <div class="container">
             <div class="section-title">
                 <span>Our Activities</span>
@@ -321,7 +323,7 @@ include "./inc/header.php";
                 <img src="assets/img/class/class-shape-2.png" alt="image">
             </div>
         </div>
-    </section>
+    </section> -->
 
 
     <!-- <section class="event-area bg-ffffff bg-color pt-100 pb-70">
@@ -472,7 +474,7 @@ include "./inc/header.php";
     </section> -->
 
 
-    <section class="facilities-area pt-100 pb-70">
+    <!-- <section class="facilities-area pt-100 pb-70">
         <div class="container">
             <div class="section-title">
                 <span>Our Core Values</span>
@@ -567,7 +569,7 @@ include "./inc/header.php";
                 <img src="assets/img/value/value-shape-3.png" alt="image">
             </div>
         </div>
-    </section>
+    </section> -->
 
 
     <!-- <section class="teacher-area pb-70">

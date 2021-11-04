@@ -2,7 +2,7 @@
     include "./helper/download.php"
 ?>
 <!doctype html>
-<html lang="zxx">
+<html lang="bn">
 
 <head>
 
