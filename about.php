@@ -8,7 +8,7 @@ include "./inc/header.php";
             <div class="d-table-cell">
                 <div class="container">
                     <div class="page-banner-content">
-                        <h2>About Us</h2>
+                        <h2>আমাদের সম্পর্কে</h2>
                         <ul>
                             <li>
                                 <a href="index.html">Home</a>
@@ -27,18 +27,18 @@ include "./inc/header.php";
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="who-we-are-content" id="about-us">
-                        <span>About Us</span>
-                        <h3>Learn About Hope Autism Specialized School</h3>
+                        <span>আমাদের সম্পর্কে</span>
+                        <h2>হোপ অটিজম স্পেশালাইজড স্কুল সম্পর্কে জানুন </h2>
                         <p>
-                            Hope Autism Specialized School (HASS) is run by HOPE AUTISM WELFARE SOCIETY in Dhaka,
-                            Bangladesh. It is a non-for-profit Non-Government Organization (NGO).
-                            HOPE AUTISM WELFARE SOCIETY has been working with the children with special needs
-                            since 2008. Here at our organization, therapists are given special training keeping in mind the
-                            individual needs of every child’s specialty.</p><br>
+                        হোপ অটিজম ওয়েলফেয়ার সোসাইটি দ্বারা পরিচালিত হোপ অটিজম স্পেশালাইজড স্কুলটি বিশেষ চাহিদা সম্পন্ন শিশুদের সেবায় নিয়োজিত। 
+                        ২০০৮ থেকে হোপ অটিজম সোসাইটি এর কার্যক্রম শুরু করে। প্রতিটি শিশুর দক্ষতা ও চাহিদাকে বিবেচনায় রেখে শিক্ষকদের প্রশিক্ষণ দেয়া হয়। 
+                        প্রত্যেকটি শিশুর লক্ষ্যকে সামনে রেখে আমাদের কারিকুলাম ঠিক করা হয়। আন্তর্জাতিক মানের প্রশিক্ষকগণ বিভিন্ন দেশ হতে আমাদের শিক্ষকদের প্রশিক্ষণ প্রদান করেন। 
 
-                            <p>In Hope, children&#39;s goals and activities are determined using the skills and talents of each child.
-                            Our Advisory Committee has experts from different countries like Australia, Canada and USA;
-                            they are constantly supporting our children in different ways.</p>
+                        </p><br>
+                        <p>
+                        বিশেষ চাহিদা সম্পন্ন শিশু ও তাদের পরিবারের জীবনযাত্রার মান উন্নয়ন করাই আমাদের লক্ষ্য। 
+                        আন্তর্জাতিক অঙনে পরিচিত এই প্রতিষ্ঠানটি গবেষণালব্ধ তথ্যের ভিত্তিতে প্রতিনিয়ত এর সেবার মান উন্নয়নের চেষ্টা করে আসছে। 
+                        </p>
                        <!--<ul class="who-we-are-list">
                             <li>
                                 <span>1</span>
@@ -64,7 +64,7 @@ include "./inc/header.php";
                 </div>
                 <div class="col-lg-6">
                     <div class="who-we-are-image-wrap">
-                        <img src="assets/img/who-we-are/who-we-are-3.png" alt="image">
+                        <img src="assets/img/about-us/about-us-hope-2.PNG" alt="about-us-hope">
                     </div>
                 </div>
             </div>
@@ -76,42 +76,30 @@ include "./inc/header.php";
 <!--                </div>-->
                 <div class="col-lg-10">
                     <div class="who-we-are-content" id="mission-vission">
-                        <span>Mission &amp; Vision:</span>
+                        <span>মিশন এবং ভিশন</span>
 <!--                        <h3>Learn About Hope Autism Specialized School</h3>-->
                         <p>
-                            The purpose of Hope Autism Welfare Society is to improve the quality of life for children
-                            with Autism Spectrum Disorder (ASD) and their families.
-                            In order to accomplish their goal, this internationally recognized organization provides
-                            comprehensive, evidence-based diagnostic assessment by renowned ASD specialists
-                            and therapeutic intervention by trained doctors and therapists.</p><br>
-                           <p> On a nonresidential admission basis Hope Autism Welfare Society is providing one-one
-                            therapy to children with ASD. At present more than fifty children are getting this
-                            intensive service at this center for varying hours per week depending on their need.
-                            Many of these children are also joining normal school side by side after attaining school
-                            readiness.</p><br>
+                        হোপ অটিজম ওয়েলফেয়ার সোসাইটির উদ্দেশ্য হল অটিজম স্পেকট্রাম ডিসঅর্ডার (ASD) এবং তাদের পরিবারের জন্য জীবনযাত্রার মান উন্নত করা। 
+                        তাদের লক্ষ্য অর্জনের জন্য, এই আন্তর্জাতিকভাবে স্বীকৃত সংস্থাটি বিখ্যাত ASD বিশেষজ্ঞদের দ্বারা ব্যাপক, প্রমাণ-ভিত্তিক ডায়গনিস্টিক মূল্যায়ন এবং
+                         প্রশিক্ষিত ডাক্তার এবং থেরাপিস্টদের দ্বারা থেরাপিউটিক হস্তক্ষেপ প্রদান করে।
 
-                            <p>As the seat capacity is limited, other children who come up to this center are served on
-                            appointment basis at regular interval by our experts.
-                            Vocational wing of Hope autism Center is another noteworthy venture, where these
-                            special children are being trained for being self-dependent. Their hand made quality
-                            products/ foods are being sold regularly both indoor &amp; outdoor with the goal to ensure
-                                active community participation.</p><br>
-                            <p>Apart from ASD, Hope Autism Welfare Society also deals any child with delay in their
-                            normal development e.g language delay &amp; provide intensive services to them for
-                            reaching to their full potentials.
-                            Although clinical care is the primary mission of this center, it also serves training
-                            facilities for professionals and care givers, provided chiefly by International ADOS
-                                trainer Dr. Nusrat Yasmeen Ahmed, founder of this center.</p><br>
-                        <p>
-                            Hope Autism Welfare Society is also engaged in innovative research endeavors to
-                            promote understanding about Autism Spectrum Disorder and its impact on families and
-                            societies.
-                            We are proud of our children on the spectrum. Their love is unconditional, so is their
-                            presence.
-                            Hope Autism Welfare Society invites you all for your active advocacy on Autism. Ensure
-                            every suspected child&#39;s early diagnosis &amp; intervention. It will be an honor for us serving
-                            these special children.
-                        </p>
+                        অনাবাসিক ভর্তির ভিত্তিতে হোপ অটিজম ওয়েলফেয়ার সোসাইটি এএসডি আক্রান্ত শিশুদের এক-এক থেরাপি প্রদান করছে। বর্তমানে পঞ্চাশেরও বেশি শিশু 
+                        তাদের প্রয়োজনের ভিত্তিতে প্রতি সপ্তাহে বিভিন্ন ঘন্টার জন্য এই কেন্দ্রে এই নিবিড় পরিষেবা পাচ্ছে। এর মধ্যে অনেক শিশুও স্কুলের প্রস্তুতি শেষ করে 
+                        পাশাপাশি সাধারণ স্কুলে যোগ দিচ্ছে।</p><br>
+
+                        <p>যেহেতু আসন ক্ষমতা সীমিত, এই কেন্দ্রে আসা অন্যান্য শিশুদের নিয়মিত বিরতিতে আমাদের বিশেষজ্ঞদের দ্বারা অ্যাপয়েন্টমেন্টের ভিত্তিতে পরিবেশন
+                            করা হয়। হোপ অটিজম সেন্টারের ভোকেশনাল শাখা আরেকটি উল্লেখযোগ্য উদ্যোগ, যেখানে এই বিশেষ শিশুদের আত্মনির্ভরশীল হওয়ার জন্য প্রশিক্ষণ দেওয়া হচ্ছে।
+                            সক্রিয় সম্প্রদায়ের অংশগ্রহণ নিশ্চিত করার লক্ষ্যে তাদের হাতে তৈরি মানসম্পন্ন পণ্য/খাবার ইনডোর এবং আউটডোর উভয় ক্ষেত্রেই নিয়মিত বিক্রি
+                             করা হচ্ছে।</p><br>
+
+                        <p>এএসডি ছাড়াও, হোপ অটিজম ওয়েলফেয়ার সোসাইটি যেকোন শিশুর স্বাভাবিক বিকাশে বিলম্বের ক্ষেত্রে যেমন ভাষা বিলম্বের সাথে মোকাবিলা করে এবং তাদের সম্পূর্ণ সম্ভাবনায় পৌঁছানোর জন্য তাদের নিবিড় পরিষেবা প্রদান করে।
+                             যদিও ক্লিনিক্যাল কেয়ার এই সেন্টারের প্রাথমিক মিশন, এটি পেশাদার এবং যত্নদাতাদের জন্য প্রশিক্ষণ সুবিধাও প্রদান করে, 
+                             প্রধানত এই কেন্দ্রের প্রতিষ্ঠাতা আন্তর্জাতিক ADOS প্রশিক্ষক ডঃ নুসরাত ইয়াসমিন আহমেদ দ্বারা সরবরাহ করা হয়।</p><br>
+
+                        <p>আশা করি অটিজম ওয়েলফেয়ার সোসাইটি অটিজম স্পেকট্রাম ডিসঅর্ডার এবং পরিবার ও সমাজের উপর এর প্রভাব সম্পর্কে বোঝার জন্য উদ্ভাবনী
+                         গবেষণা প্রচেষ্টায় নিযুক্ত রয়েছে। বর্ণালীতে আমাদের সন্তানদের নিয়ে আমরা গর্বিত। তাদের ভালবাসা নিঃশর্ত, তাই তাদের উপস্থিতি। আশা করি অটিজম
+                          ওয়েলফেয়ার সোসাইটি অটিজম বিষয়ে আপনার সক্রিয় সমর্থনের জন্য আপনাকে সকলকে আমন্ত্রণ জানিয়েছে।
+                         প্রত্যেক সন্দেহভাজন শিশুর প্রাথমিক রোগ নির্ণয় এবং হস্তক্ষেপ নিশ্চিত করুন। এই বিশেষ শিশুদের সেবা করা আমাদের জন্য সম্মানের বিষয় হবে। </p>
                     </div>
                 </div>
             </div>

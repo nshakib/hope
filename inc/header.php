@@ -91,7 +91,7 @@
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="international-expart.php" class="nav-link">
                                         আন্তর্জাতিক বিশেষজ্ঞ
                                         </a>
                                     </li>
@@ -126,12 +126,12 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="service.php#Counselling" class="nav-link">
-                                            টিচারস ট্রেনিং 
+                                            টিচার্স ট্রেনিং 
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="service.php#Parents-Training" class="nav-link">
-                                            পেরেন্টস ট্রেনিং
+                                            প্যারেন্টস ট্রেনিং
                                         </a>
                                     </li>
                                     

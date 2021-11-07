@@ -12,14 +12,14 @@ include "./inc/header.php";
                             <div class="col-lg-6">
                                 <div class="main-banner-content">
                                     <!-- <span>Play, Learn and Grow</span> -->
-                                    <h1>We are a Childcare Professional</h1>
+                                    <h2>আমরা শিশুর প্রারম্ভিক বিকাশ ও যত্নে অভিজ্ঞ</h2>
                                     <p> হোপ অটিজম ওয়েলফেয়ার সোসাইটি দ্বারা পরিচালিত হোপ অটিজম স্পেশালাইজড স্কুলটি বিশেষ চাহিদা সম্পন্ন শিশুদের সেবায় নিয়োজিত। 
 ২০০৮ থেকে হোপ অটিজম সোসাইটি এর কার্যক্রম শুরু করে। প্রতিটি শিশুর দক্ষতা ও চাহিদাকে বিবেচনায় রেখে শিক্ষকদের প্রশিক্ষণ দেয়া হয়। 
 প্রত্যেকটি শিশুর লক্ষ্যকে সামনে রেখে আমাদের কারিকুলাম ঠিক করা হয়। আন্তর্জাতিক মানের প্রশিক্ষকগণ বিভিন্ন দেশ হতে আমাদের শিক্ষকদের প্রশিক্ষণ প্রদান করেন। 
 </p>
                                     <div class="banner-btn">
                                         <a href="about.php#about-us" class="default-btn">
-                                            Learn More
+                                            আরো জানুন
                                         </a>
 <!--                                        <a href="#" class="optional-btn">-->
 <!--                                            Find Out More-->
@@ -63,12 +63,9 @@ include "./inc/header.php";
                 <div class="col-lg-6">
                     <div class="who-we-are-content">
                         <!-- <span>Who We Are</span> -->
-                        <h3>Learn About Our Work and Cultural Activities</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-                            viverra maecenas accumsan lacus vel facilisis.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <h2>আমাদের কাজ এবং সাংস্কৃতিক কার্যকলাপ সম্পর্কে জানুন</h2>
+                        <p>বিশেষ চাহিদা সম্পন্ন শিশু ও তাদের পরিবারের জীবনযাত্রার মান উন্নয়ন করাই আমাদের লক্ষ্য। 
+                            আন্তর্জাতিক অঙনে পরিচিত এই প্রতিষ্ঠানটি গবেষণালব্ধ তথ্যের ভিত্তিতে প্রতিনিয়ত এর সেবার মান উন্নয়নের চেষ্টা করে আসছে। </p>
                         <ul class="who-we-are-list">
                             <li>
                                 <span>1</span>
@@ -88,13 +85,13 @@ include "./inc/header.php";
                             </li>
                         </ul>
                         <div class="who-we-are-btn">
-                            <a href="#" class="default-btn">Read More</a>
+                            <a href="#" class="default-btn">আরো জানুন</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="who-we-are-image-wrap">
-                        <img src="assets/img/who-we-are/who-we-are-2.png" alt="image">
+                        <img src="assets/img/hope-work-2.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -840,20 +837,20 @@ include "./inc/header.php";
         <div class="container">
             <div class="partner-slider owl-carousel owl-theme">
                 <div class="partner-item">
-                    <img src="assets/img/partner/partner-1.png" alt="image">
+                    <img src="assets/img/partner/1.png" alt="image">
                 </div>
                 <div class="partner-item">
-                    <img src="assets/img/partner/partner-2.png" alt="image">
+                    <img src="assets/img/partner/2.png" alt="image">
                 </div>
                 <div class="partner-item">
-                    <img src="assets/img/partner/partner-3.png" alt="image">
+                    <img src="assets/img/partner/3.png" alt="image">
                 </div>
                 <div class="partner-item">
-                    <img src="assets/img/partner/partner-4.png" alt="image">
+                    <img src="assets/img/partner/4.png" alt="image">
                 </div>
-                <div class="partner-item">
+                <!-- <div class="partner-item">
                     <img src="assets/img/partner/partner-5.png" alt="image">
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
