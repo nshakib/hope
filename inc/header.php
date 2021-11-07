@@ -70,29 +70,29 @@
                         <ul class="navbar-nav">
                             <li class="nav-item">
                                 <a href="index.php" class="nav-link active">
-                                    Home
+                                হোম
                                 </a>
                             </li>
                             <!-- About us -->
                             <li class="nav-item">
                                 <a  class="nav-link">
-                                    About Hope
+                                আমাদের সম্পর্কিত 
                                     <i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <a href="about.php#mission-vission" class="nav-link">
-                                            Mission & Vision
+                                            মিশন এবং ভিশন
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="executive.php" class="nav-link">
-                                            Executive Committee
+                                        নির্বাহী কমিটি
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">
-                                            Advisory Council
+                                        আন্তর্জাতিক বিশেষজ্ঞ
                                         </a>
                                     </li>
                                 </ul>
@@ -100,49 +100,70 @@
                             <!-- Our Service -->
                             <li class="nav-item">
                                 <a class="nav-link">
-                                    Our Services
+                                আমাদের সার্ভিস
                                     <i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <a href="service.php#Early-Intervention-Section" class="nav-link">
-                                            Early Intervention
+                                        আর্লি ইন্টারভেনশন
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="service.php#Senior-section" class="nav-link">
-                                            Junior Section
+                                        হোম ভিজিট
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="service.php#Academic/pre-academic-program" class="nav-link">
-                                            Academic/pre-academic program
+                                        একাডেমিক, প্রি-একাডেমিক
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="service.php#Vocational-Training" class="nav-link">
-                                            Vocational Training
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="service.php#Parents-Training" class="nav-link">
-                                            Parents Training
+                                            কারিগরী প্রশিক্ষণ
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="service.php#Counselling" class="nav-link">
-                                            Counselling
+                                            টিচারস ট্রেনিং 
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="service.php#Parents-Training" class="nav-link">
+                                            পেরেন্টস ট্রেনিং
+                                        </a>
+                                    </li>
+                                    
+                                    <li class="nav-item">
+                                        <a href="service.php#Counselling" class="nav-link">
+                                            গৃহস্থলীর কাজে প্রশিক্ষণ
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="service.php#Counselling" class="nav-link">
+                                            অনলাইন সেশন 
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="service.php#Counselling" class="nav-link">
+                                         ফ্রি কাউন্সেলিং 
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="service.php#Counselling" class="nav-link">
+                                            ফ্রি সার্ভিস 
                                         </a>
                                     </li>
                                 </ul>
                             </li>
                             <!-- Teacher Details-->
                             <li class="nav-item">
-                                <a class="nav-link">
-                                    Teacher
-                                    <i class='bx bx-chevron-down'></i>
+                                <a href="teacher.php" class="nav-link">
+                                শিক্ষকবৃন্দ
+                                    <!-- <i class='bx bx-chevron-down'></i> -->
                                 </a>
-                                <ul class="dropdown-menu">
+                                <!-- <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <a href="teacher.php" class="nav-link">
                                             Teacher
@@ -153,35 +174,35 @@
                                             Teacher Details
                                         </a>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <!-- Gallary -->
                             <li class="nav-item">
                                 <a href="gallery.php" class="nav-link">
-                                    Gallery
+                                গ্যালারী
                                 </a>
                             </li>
                             <!-- Form -->
                             <li class="nav-item">
                                 <a  class="nav-link">
-                                    Form
+                                ফরম
                                     <i class='bx bx-chevron-down'></i>
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <a href='../assets/file/admission_form.docx'  class='nav-link' download="admission_form.docx">
 
-                                            Addmission Form
+                                        ভর্তি ফরম
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="../assets/file/gm_form.docx" class="nav-link" download="gm_form.docx">
-                                            Membership Form
+                                        মেম্বারশিপ ফরম
                                         </a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">
-                                            Training Form
+                                        ট্রেনিং ফরম
                                         </a>
                                     </li>
                                 </ul>
@@ -189,13 +210,13 @@
                             <!-- Fund -->
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
-                                    Donation
+                                ডোনেশন
                                 </a>
                             </li>
                             <!-- Contact Us -->
                             <div class="others-options d-flex align-items-center">
                                 <div class="option-item">
-                                    <a href="contact.php" class="default-btn">Contact Us</a>
+                                    <a href="contact.php" class="default-btn">যোগাযোগ</a>
                                 </div>
                             </div>
                             <!-- <li class="nav-item">
@@ -343,7 +364,7 @@
                                 </div>
                             </div>
                             <div class="option-item">
-                                <a href="#" class="default-btn">Contact Us</a>
+                                <a href="#" class="default-btn">যোগাযোগ</a>
                             </div>
                         </div>
                     </div>
