@@ -3383,6 +3383,10 @@ img {
     padding-bottom: 200px;
     background-attachment: fixed
 }
+.about-us-cover{}
+.page-banner-area.our-service-cover{
+    background-image: url(../img/services/our-services-banner-2.jpg)!important;
+}
 
 .page-banner-area::before {
     position: absolute;
@@ -3398,7 +3402,7 @@ img {
 }
 
 .page-banner-area.item-bg1 {
-    background-image: url(../img/page-banner/page-banner-2.jpg)
+    background-image: url(../img/page-banner/page-banner-1.jpg)
 }
 
 .page-banner-area.item-bg2 {

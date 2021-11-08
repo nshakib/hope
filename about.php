@@ -7,7 +7,7 @@ include "./inc/header.php";
         <div class="d-table">
             <div class="d-table-cell">
                 <div class="container">
-                    <div class="page-banner-content">
+                    <div class="page-banner-content about-us-cover">
                         <h2>আমাদের সম্পর্কে</h2>
                         <ul>
                             <li>

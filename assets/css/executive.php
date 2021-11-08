@@ -8,7 +8,7 @@ include "./inc/header.php";
             <div class="d-table-cell">
                 <div class="container">
                     <div class="page-banner-content">
-                        <h2>Executive Committee</h2>
+                        <h2>নির্বাহী কমিটি</h2>
                         <ul>
                             <li>
                                 <a href="index.html">Home</a>
