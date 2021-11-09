@@ -182,6 +182,12 @@
                                 গ্যালারী
                                 </a>
                             </li>
+                            <!-- events -->
+                            <li class="nav-item">
+                                <a href="events.php" class="nav-link">
+                                ইভেন্টস
+                                </a>
+                            </li>
                             <!-- Form -->
                             <li class="nav-item">
                                 <a  class="nav-link">
@@ -207,9 +213,10 @@
                                     </li>
                                 </ul>
                             </li>
+                            
                             <!-- Fund -->
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="donation.php" class="nav-link">
                                 ডোনেশন
                                 </a>
                             </li>

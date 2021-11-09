@@ -160,8 +160,7 @@ include "./inc/header.php";
                         <span>teacher training</span>
                         <h3>টিচার্স ট্রেনিং </h3>
                         <p>
-                            HASS also provides an eight-week hands-on parent training program based on ESDM
-                            in which families get training and advisory support from our professionals.
+                            কানাডা, অস্ট্রেলিয়া ও আমেরিকা থেকে বিশেষজ্ঞ দ্বারা আমাদের শিক্ষকদের নিয়মিত প্রশিক্ষণ প্রদান করা হয়ে থাকে। 
                         </p>
                     </div>
                 </div>
@@ -176,10 +175,9 @@ include "./inc/header.php";
                 <div class="col-lg-10 offset-2">
                     <div class="who-we-are-content" >
                         <span>Parents Training</span>
-                        <h3>Parents Training</h3>
+                        <h3>প্যারেন্টস ট্রেনিং</h3>
                         <p>
-                            HASS also provides an eight-week hands-on parent training program based on ESDM
-                            in which families get training and advisory support from our professionals.
+                            শিশুদের অভিভাবকদের হাতে কলমে প্রশিক্ষণ প্রদান করা হয়ে থাকে। 
                         </p>
                     </div>
                 </div>
