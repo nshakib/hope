@@ -39,6 +39,16 @@ include "./inc/header.php";
                             <li>বাচ্চাদের ম্যাটারিয়াল তৈরীর জন্য </li>
                             <li>অসহায় ও দুস্থ শিক্ষার্থীদের ও তাদের পরিবারকে অর্থ সহায়তা প্রদান  </li>
                         </ul>
+                        <div class="who-we-are-image-wrap pt-5">
+                            <img src="assets/img/donation/donation-1.jpeg" alt="family-support">
+                            <br>
+                            <p><span>ছবিঃ পরিবারদের অর্থ সহায়তা </span></p>
+                        </div><br>
+                        <div class="who-we-are-image-wrap pt-5">
+                            <img src="assets/img/donation/donation-2.jpeg" alt="family-support">
+                            <br>
+                            <p><span>ছবিঃ পরিবারদের অর্থ সহায়তা </span></p>
+                        </div><br>
                     </div>
                 </div>
             </div>

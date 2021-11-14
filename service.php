@@ -141,10 +141,22 @@ include "./inc/header.php";
                             ঘরের কাজ যেমন পরিষ্কার করা ইত্যাদি। 
 
                         </p><br>
+                        <div class="who-we-are-image-wrap pt-5">
+                            <img src="assets/img/services/vocational/vocational-training-3.jpg" alt="vocational-training-">
+                            <hr>
+                            <span>ছবিঃ কারিগরী প্রশিক্ষণ</span>
+                           
+                        </div> <br>
                         <p>
                             <b>কারিগরী প্রশিক্ষণ:</b>
-                            They engage in recreational activities of singing, dancing, drawing and craft together, supporting their social skill development.
+                            তারা তাদের সামাজিক দক্ষতা বিকাশে সহায়তা করে একসাথে গান, নাচ, ছবি আঁকা এবং নৈপুণ্যের বিনোদনমূলক কার্যকলাপে জড়িত। 
                         </p>
+                        <div class="who-we-are-image-wrap pt-5">
+                            <img src="assets/img/services/vocational/vocational-training-4.jpeg" alt="vocational-training">
+                            <hr>
+                            <span>ছবিঃ কারিগরী প্রশিক্ষণ</span>
+                           
+                        </div> <br>
                     </div>
                 </div>
             </div>
@@ -162,6 +174,12 @@ include "./inc/header.php";
                         <p>
                             কানাডা, অস্ট্রেলিয়া ও আমেরিকা থেকে বিশেষজ্ঞ দ্বারা আমাদের শিক্ষকদের নিয়মিত প্রশিক্ষণ প্রদান করা হয়ে থাকে। 
                         </p>
+                        <div class="who-we-are-image-wrap pt-5">
+                            <img src="assets/img/services/teacher-training/t-1.jpg" alt="teacher-training">
+                            <hr>
+                            <span>ছবিঃ শিক্ষক প্রশিক্ষণ</span>
+                           
+                        </div> <br>
                     </div>
                 </div>
             </div>
@@ -179,6 +197,12 @@ include "./inc/header.php";
                         <p>
                             শিশুদের অভিভাবকদের হাতে কলমে প্রশিক্ষণ প্রদান করা হয়ে থাকে। 
                         </p>
+                        <div class="who-we-are-image-wrap pt-5">
+                            <img src="assets/img/services/parents-training/p-t-2.jpg" alt="parents-training">
+                            <hr>
+                            <span>ছবিঃ প্যারেন্টস প্রশিক্ষণ</span>
+                           
+                        </div> <br>
                     </div>
                 </div>
             </div>

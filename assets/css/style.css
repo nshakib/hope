@@ -3393,16 +3393,18 @@ img {
     content: "";
     height: 100%;
     width: 100%;
-    background-color: #000;
+     background-color: #212529;
     left: 0;
     right: 0;
     top: 0;
     z-index: -1;
     opacity: .6
 }
-
+.page-banner-area.our-teacher-cover{
+    background-image: url(../img/teacher/teacher-cover-main-1.jpg)
+}
 .page-banner-area.item-bg1 {
-    background-image: url(../img/page-banner/page-banner-1.jpg)
+    /* background-image: url(../img/page-banner/page-banner-1.jpg) */
 }
 
 .page-banner-area.item-bg2 {

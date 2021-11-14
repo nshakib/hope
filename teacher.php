@@ -3,12 +3,12 @@ include "./inc/header.php";
 ?>
 
 
-    <div class="page-banner-area item-bg1">
+    <div class="page-banner-area our-teacher-cover item-bg1">
         <div class="d-table">
             <div class="d-table-cell">
                 <div class="container">
                     <div class="page-banner-content">
-                        <h2>Teacher</h2>
+                        <h2>শিক্ষকবৃন্দ</h2>
                         <ul>
                             <li>
                                 <a href="index.php">Home</a>
@@ -54,8 +54,8 @@ include "./inc/header.php";
                             </ul>
                         </div>
                         <div class="content">
-                            <h3>Aditi Molly Datta</h3>
-                            <span>Special Educator Consultant</span>
+                            <h3>---</h3>
+                            <span>--</span>
                         </div>
                     </div>
                 </div>
@@ -88,8 +88,8 @@ include "./inc/header.php";
                             </ul>
                         </div>
                         <div class="content">
-                            <h3>Karen Purdie</h3>
-                            <span>Occupational Therapist  </span>
+                            <h3>--</h3>
+                            <span>--</span>
                         </div>
                     </div>
                 </div>
@@ -122,8 +122,8 @@ include "./inc/header.php";
                             </ul>
                         </div>
                         <div class="content">
-                            <h3>Dr. Elfriede Ihsen</h3>
-                            <span>Neurologist</span>
+                            <h3>---</h3>
+                            <span>---</span>
                         </div>
                     </div>
                 </div>
